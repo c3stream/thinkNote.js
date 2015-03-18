@@ -1,0 +1,2 @@
+# thinkNote.js
+view js
